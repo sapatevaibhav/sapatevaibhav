@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sapatevaibhav69
+- 👋 Hi, I’m @sapatevaibhav
 - 👀 I’m interested in ... The technology
 - 🌱 I’m currently learning ... Bachelor of technology
 - 📫 How to reach me ... sapatevaibhav96@gmail.com
