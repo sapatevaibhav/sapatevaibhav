@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sapatevaibhav.
+- 👋 Hi, I’m @sappuv.
 - 👀 I’m interested in ... The technology ofc ;).
 - 🌱 I’m currently  ... Bachelor of Engineering.
-- 📫 How to reach me ... sapatevaibhav96@gmail.com
+- 📫 How to reach me ... wait
 - ❣️ And one last thing ... I'm huge open source lover.
 That's it
 
