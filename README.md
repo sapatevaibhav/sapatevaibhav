@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapatevaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="sapatevaibhav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapatevaibhav" alt="sapatevaibhav" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapatevaibhav" alt="sapatevaibhav" /></a> </p> -->
 
 - 🌱 I’m currently learning **B.E in Information Technology**
 
