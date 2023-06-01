@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Vaibhav Daivshala Ramdas Sapate.</h1>
+<h1 align="center">
+  <a href="https://github.com/sapatevaibhav/Computer-Graphics">Computer Graphics Codes are here</a><br> also<br>
+  <a href="https://github.com/sapatevaibhav/Computer-Graphics/readme.md">It's menu is here</a>
+  <!--Hi, I'm Vaibhav Daivshala Ramdas Sapate.-->
+
+</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/29405483/221152051-24647828-d8ff-4cd3-b7a3-a3aeaf31929a.png" />
