@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/sapatevaibhav/Computer-Graphics">Computer Graphics Codes are here</a><br> also<br>
-  <a href="https://github.com/sapatevaibhav/Computer-Graphics/readme.md">It's menu is here</a>
+  <a href="https://github.com/sapatevaibhav/Computer-Graphics/blob/master/README.md">It's menu is here</a>
   <!--Hi, I'm Vaibhav Daivshala Ramdas Sapate.-->
 
 </h1>
