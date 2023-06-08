@@ -1,7 +1,5 @@
-<h1 align="center">
-  <a href="https://github.com/sapatevaibhav/PA">Processor Architecture are here</a><br> also<br>
-  <a href="https://github.com/sapatevaibhav/DBMS">DBMS is here</a>
-  <!--Hi, I'm Vaibhav Daivshala Ramdas Sapate.-->
+<h1>
+  Hi, I'm Vaibhav Daivshala Ramdas Sapate.
 
 </h1>
 
