@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Hi, I'm Vaibhav Daivshala Ramdas Sapate.
 
 </h1>
