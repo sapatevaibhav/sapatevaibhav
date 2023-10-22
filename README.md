@@ -11,6 +11,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1177F7&center=true&vCenter=true&width=700&height=100&lines=Hello!+I+am+Vaibhav+Sapate+;I+am+a+passionate+Software+Developer;I+like+to+build+products+to+solve++real+world+problems+;I'm+a+problem-solving+software+developer+;I+build+software+for+real-world+needs+;Solving+problems+with+code+is+my+passion+;I+create+software+to+address+practical+issues+;My+focus+is+on+software+that+tackles+real+problems+;I'm+a+software+developer+who+thrives+on+solutions+;Crafting+products+to+solve+problems+is+my+thing+;I+develop+software+for+real-life+challenges+;My+code+is+dedicated+to+practical+solutions+;Software+development+is+my+path+to+real-world+impact+;I+love+coding+to+solve+everyday+problems+;My+software+work+is+all+about+real-world+solutions+;I'm+a+developer+dedicated+to+real+problems+;My+software+solutions+aim+to+make+life+better+;I+code+with+a+purpose+–+solving+real+issues
 )](https://git.io/typing-svg)
+
+---
 <img align="right" alt="coding" width=300 src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif"/>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapatevaibhav&label=Profile%20views&color=0e75b6&style=flat&" alt="sapatevaibhav" /> </p>-->
@@ -89,6 +91,11 @@
 
 
 ![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav)  
+
+
+[![@sapatevaibhav's Holopin board](https://holopin.me/@sapatevaibhav)](https://holopin.io/@sapatevaibhav)
+---
+
 ### Show some love ❤️ by starring some of the repositories!
 
 </div>
