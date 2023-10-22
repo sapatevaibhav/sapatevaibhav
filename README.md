@@ -7,10 +7,17 @@
 </p>
 
 
-<h3 align="center">A passionate developer from India</h3>
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1177F7&center=true&vCenter=true&width=700&height=100&lines=Hello!+I+am+Vaibhav+Sapate+;I+am+a+passionate+Software+Developer;I+like+to+build+products+to+solve++real+world+problems+;I'm+a+problem-solving+software+developer+;I+build+software+for+real-world+needs+;Solving+problems+with+code+is+my+passion+;I+create+software+to+address+practical+issues+;My+focus+is+on+software+that+tackles+real+problems+;I'm+a+software+developer+who+thrives+on+solutions+;Crafting+products+to+solve+problems+is+my+thing+;I+develop+software+for+real-life+challenges+;My+code+is+dedicated+to+practical+solutions+;Software+development+is+my+path+to+real-world+impact+;I+love+coding+to+solve+everyday+problems+;My+software+work+is+all+about+real-world+solutions+;I'm+a+developer+dedicated+to+real+problems+;My+software+solutions+aim+to+make+life+better+;I+code+with+a+purpose+–+solving+real+issues
+)](https://git.io/typing-svg)
 <img align="right" alt="coding" width=300 src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapatevaibhav&label=Profile%20views&color=0e75b6&style=flat&" alt="sapatevaibhav" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapatevaibhav&label=Profile%20views&color=0e75b6&style=flat&" alt="sapatevaibhav" /> </p>-->
+<p align="left">
+    Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sapatevaibhav/count.svg" />
+</p>    
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapatevaibhav" alt="sapatevaibhav" /></a> </p> -->
 
@@ -18,18 +25,18 @@
 
 - 💬 Ask me about **CSS, Python, PHP, Java**
 
-- 📫 How to reach me **sapatevaibhav96@gmail.com**
+- 📫 How to reach me **sapatevaibhav@duck.com**
 
 - ⚡ Fun fact **I think I am Dumb**
 
 - 🧑🏻‍💻 Currently I am learning **Flutter Development**
 
-
+---
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sapatevaibhav96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sapatevaibhav96" height="30" width="40" /></a>
-<a href="https://instagram.com/v.d.r.sapate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.d.r.sapate" height="30" width="40" /></a>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sapate_Vaibhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sapatevaibhav/)  &nbsp;
+<a href="https://www.instagram.com/v.d.r.sapate/"><img src="https://img.shields.io/badge/-@v.d.r.sapate-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://x.com/sapatevaibhav96"><img src="https://img.shields.io/badge/-Sapate_Vaibhav-black?style=flat&logo=x&logoColor=blacwhite"/></a> &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -65,9 +72,31 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapatevaibhav&theme=dark" alt="sapatevaibhav" /></div>
+---
 
-<br/>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapatevaibhav&show_icons=true&locale=en&layout=compact&theme=dark" alt="sapatevaibhav" /></div>
+<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapatevaibhav&theme=dracula" alt="sapatevaibhav" />
+
+  ---
+  
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sapatevaibhav&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+<br>
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapatevaibhav&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sapatevaibhav" />
+
+---
 
 
+![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav)  
+### Show some love ❤️ by starring some of the repositories!
+
+</div>
+<!-- ---
+
+### 💻 My Contribution Graph:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapatevaibhav&theme=vue)
+   ![](https://activity-graph.herokuapp.com/graph?username=sapatevaibhav&theme=dracula&hide_border=true&area=true)
+  <br/>
+
+---   -->
