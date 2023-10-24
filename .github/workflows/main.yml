@@ -24,4 +24,6 @@ jobs:
       uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
         target_branch: output
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH }}
         build_dir: dist
