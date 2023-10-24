@@ -89,6 +89,7 @@
 
 ---
 
+<img src="github-user-contribution.svg" />
 
 ![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav)  
 
