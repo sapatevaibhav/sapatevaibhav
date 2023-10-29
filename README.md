@@ -93,8 +93,10 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav)  
 
+### My Holopin badges
 
-[![@sapatevaibhav's Holopin board](https://holopin.me/@sapatevaibhav)](https://holopin.io/@sapatevaibhav)
+[![An image of @sapatevaibhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sapatevaibhav)](https://holopin.io/@sapatevaibhav)
+
 ---
 
 ### Show some love ❤️ by starring some of the repositories!
