@@ -1,5 +1,5 @@
 <h1 align="center">
- <a href ="https://github.com/sapatevaibhav/Operating-Systems-Lab"> Operating Systems Code. </a>
+  Vaibhav Daivashla Ramdas Sapate. 
 </h1>
 
 <p align="center">
