@@ -91,7 +91,7 @@
 
 <img src="github-user-contribution.svg" />
 
-![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav)  
+<!--![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav) --> 
 
 ### My Holopin badges
 
