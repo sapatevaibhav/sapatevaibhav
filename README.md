@@ -89,7 +89,7 @@
 
 ---
 
-<img src="github-user-contribution.svg" />
+![snake gif](https://github.com/sapatevaibhav/sapatevaibhav/blob/output/github-contribution-grid-snake.svg)
 
 <!--![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav) --> 
 
