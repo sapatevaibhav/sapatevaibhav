@@ -38,7 +38,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sapate_Vaibhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sapatevaibhav/)  &nbsp;
 <a href="https://www.instagram.com/v.d.r.sapate/"><img src="https://img.shields.io/badge/-@v.d.r.sapate-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://x.com/sapatevaibhav96"><img src="https://img.shields.io/badge/-Sapate_Vaibhav-black?style=flat&logo=x&logoColor=blacwhite"/></a> &nbsp;
+<a href="https://x.com/sapatevai"><img src="https://img.shields.io/badge/-Sapate_Vaibhav-black?style=flat&logo=x&logoColor=blacwhite"/></a> &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -99,6 +99,12 @@
 
 ---
 
+### My GitHub trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sapatevaibhav&theme=onedark)](https://github.com/sapatevaibhav)
+
+### Activity graph
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sapatevaibhav&bg_color=000000&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true)](https://github.com/sapatevaibhav)
 ### Show some love ❤️ by starring some of the repositories!
 
 </div>
