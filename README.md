@@ -76,23 +76,6 @@
 
 ---
 
-<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapatevaibhav&theme=dracula" alt="sapatevaibhav" />
-
-  ---
-  
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sapatevaibhav&show_icons=true&count_private=true&hide_title=true&theme=dracula)
-<br>
-
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapatevaibhav&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sapatevaibhav" />
-
----
-
-![snake gif](https://github.com/sapatevaibhav/sapatevaibhav/blob/output/github-contribution-grid-snake.svg)
-
-<!--![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav) --> 
-
 ### My Holopin badges
 
 [![An image of @sapatevaibhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sapatevaibhav)](https://holopin.io/@sapatevaibhav)
@@ -105,7 +88,7 @@
 
 ### Activity graph
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sapatevaibhav&bg_color=000000&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true)](https://github.com/sapatevaibhav)
-### Show some love ❤️ by starring some of the repositories!
+
 
 </div>
 <!-- ---
@@ -116,3 +99,32 @@
   <br/>
 
 ---   -->
+
+---
+
+
+<h3 align="center">Activity</h3>
+<img align="right" width="390" alt="metrics" src="./metrics.svg">
+<img align="left" width="390" alt="🦑" src="./metrics.classic.svg">
+<img align="left" width="390" alt="achievements.svg" src="./achievements.svg">
+
+<div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapatevaibhav&theme=dracula" alt="sapatevaibhav" />
+
+---
+  
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=sapatevaibhav&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+<br>
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapatevaibhav&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sapatevaibhav" />
+
+---
+<!--
+![snake gif](https://github.com/sapatevaibhav/sapatevaibhav/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav) --> 
+
+![snake gif](github-user-contribution.svg)
+
+### Show some love ❤️ by starring some of the repositories!
