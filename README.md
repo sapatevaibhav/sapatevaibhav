@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact **I think I am Dumb**
 
-- 🧑🏻‍💻 Currently I am learning **Flutter Development**
+- 🧑🏻‍💻 Currently I am learning **Flutter Development along with MongoDB**
 
 ---
 <h3 align="left">Connect with me:</h3>
