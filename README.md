@@ -25,13 +25,13 @@
 
 - 🌱 I’m currently persuing **B.E in Information Technology**
 
-- 💬 Ask me about **CSS, Python, PHP, Java**
+- 💬 Ask me about **CSS, Python, FLutter, Java**
 
 - 📫 How to reach me **sapatevaibhav@duck.com**
 
 - ⚡ Fun fact **I think I am Dumb**
 
-- 🧑🏻‍💻 Currently I am learning **Flutter Development along with MongoDB**
+- 🧑🏻‍💻 Currently I am learning **ReactJS**
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -128,6 +128,11 @@
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapatevaibhav&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sapatevaibhav" />
+
+---
+
+<a href="https://wakatime.com/@sapatevaibhav"> <img src="https://wakatime.com/share/@sapatevaibhav/b47ff41e-c77d-4a6b-a60f-8a249e7a1be3.png" alt="Project Image" height="400px"> </a>
+
 
 ---
 ![snake gif](github-user-contribution.svg)
