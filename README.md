@@ -75,21 +75,36 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ---
-
+<details>
+<summary>
+  
 ### My Holopin badges
+</summary>
 
 [![An image of @sapatevaibhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sapatevaibhav)](https://holopin.io/@sapatevaibhav)
+</details>
 
 ---
 
+<details>
+<summary>
+  
 ### My GitHub trophies
+</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sapatevaibhav&theme=onedark)](https://github.com/sapatevaibhav)
+</details>
 
 ---
-
+<details>
+<summary>
+  
 ### Activity graph
+</summary>
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sapatevaibhav&bg_color=000000&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true)](https://github.com/sapatevaibhav)
+
+</details>
 
 
 </div>
@@ -102,6 +117,8 @@
 
 ---
 
+
+
 <h3 align="center">Activity</h3>
 <img align="right" width="390" alt="metrics" src="./metrics.svg">
 <img align="left" width="390" alt="🦑" src="./metrics.classic.svg">
@@ -110,7 +127,10 @@
 
 ---
 
-
+<details>
+<summary>
+  &nbsp;
+</summary>
 
 
 <div align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapatevaibhav&theme=dracula" alt="sapatevaibhav" />
@@ -129,12 +149,13 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapatevaibhav&show_icons=true&locale=en&layout=compact&theme=dracula" alt="sapatevaibhav" />
 
----
+</details>
 
+---
+<!--
 <a href="https://wakatime.com/@sapatevaibhav"> <img src="https://wakatime.com/share/@sapatevaibhav/b47ff41e-c77d-4a6b-a60f-8a249e7a1be3.png" alt="Project Image" height="400px"> </a>
+-->
 
-
----
 ![snake gif](github-user-contribution.svg)
 
 <!--
