@@ -73,19 +73,19 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
+<!--
 ---
 <details>
 <summary>
-  
+  <!--
 ### My Holopin badges
 </summary>
-
+<!--
 [![An image of @sapatevaibhav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sapatevaibhav)](https://holopin.io/@sapatevaibhav)
 </details>
 
----
 
+<!--
 <details>
 <summary>
   
@@ -115,10 +115,9 @@
   <br/>
 -->
 
----
 
 
-
+<!--
 <h3 align="center">Activity</h3>
 <img align="right" width="390" alt="metrics" src="./metrics.svg">
 <img align="left" width="390" alt="🦑" src="./metrics.classic.svg">
@@ -155,7 +154,7 @@
 <!--
 <a href="https://wakatime.com/@sapatevaibhav"> <img src="https://wakatime.com/share/@sapatevaibhav/b47ff41e-c77d-4a6b-a60f-8a249e7a1be3.png" alt="Project Image" height="400px"> </a>
 -->
-
+<!--
 ![snake gif](github-user-contribution.svg)
 
 <!--
