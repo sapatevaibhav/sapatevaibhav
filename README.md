@@ -33,6 +33,8 @@
 
 - 🧑🏻‍💻 Currently I am learning **ReactJS**
 
+- 🕒 I am working on **ResumeRocket - AI Interview Assistant**
+
 ---
 <h3 align="left">Connect with me:</h3>
 
