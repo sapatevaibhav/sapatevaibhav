@@ -21,8 +21,10 @@
   <img src="https://profile-counter.glitch.me/sapatevaibhav/count.svg" />
 </p>    
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapatevaibhav" alt="sapatevaibhav" /></a> </p> -->
 
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapatevaibhav" alt="sapatevaibhav" /></a> </p> 
+-->
 - 🌱 I’m currently persuing **B.E in Information Technology**
 
 - 💬 Ask me about **CSS, Python, FLutter, Java**
@@ -31,11 +33,12 @@
 
 - ⚡ Fun fact **I think I am Dumb**
 
-- 🧑🏻‍💻 Currently I am learning **ReactJS**
+- 🧑🏻‍💻 Currently I am learning **Drupal and Next**
 
 - 🕒 I am working on **ResumeRocket - AI Interview Assistant**
 
 ---
+
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sapate_Vaibhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sapatevaibhav/)  &nbsp;
@@ -93,19 +96,22 @@
   
 ### My GitHub trophies
 </summary>
+-->
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sapatevaibhav&theme=onedark)](https://github.com/sapatevaibhav)
 </details>
 
+<!--
 ---
 <details>
 <summary>
   
 ### Activity graph
 </summary>
-
+-->
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sapatevaibhav&bg_color=000000&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true)](https://github.com/sapatevaibhav)
-
+<!--
 </details>
 
 
