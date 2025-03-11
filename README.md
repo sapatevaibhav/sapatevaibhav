@@ -171,9 +171,12 @@
 ![GitHub metrics](https://metrics.lecoq.io/sapatevaibhav) --> 
 ---
 
-![abc](https://wakatime.com/share/@sapatevaibhav/0b937194-7a7b-4c2c-8dbb-5d3bad82eb96.svg)
+<div align="center">
 
+[![WakaTime Stats](https://wakatime.com/share/@sapatevaibhav/8ae4a8d5-9248-4926-9722-a8efe190a6a7.png)](https://wakatime.com/sapatevaibhav)
+</div>
 
 ---
+
 
 ### Show some love ❤️ by starring some of the repositories!
