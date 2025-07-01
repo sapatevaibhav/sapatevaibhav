@@ -25,17 +25,17 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapatevaibhav" alt="sapatevaibhav" /></a> </p> 
 -->
-- 🌱 I’m currently persuing **B.E in Information Technology**
+- 🌱 I currently work as a Web Developer at **QED42**.
 
-- 💬 Ask me about **CSS, Python, FLutter, Java**
+- 💬 Ask me about **CSS, Python, Flutter, Java**
 
 - 📫 How to reach me **sapatevaibhav@duck.com**
 
-- ⚡ Fun fact **I think I am Dumb**
+- ⚡ Fun fact **I am probably one of the few people who can debug a Firestore rule, deploy a Next.js project, and argue whether a Petal Bee or Blood Kiwi is a better garden pet — all in the same day.**
 
-- 🧑🏻‍💻 Currently I am learning **Drupal and Next**
+- 🧑🏻‍💻 Currently I am learning **Drupal and Next.js**
 
-- 🕒 I am working on **ResumeRocket - AI Interview Assistant**
+<!-- - 🕒 I am working on **ResumeRocket - AI Interview Assistant** -->
 
 ---
 
@@ -53,8 +53,28 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+  
+<!-- Drupal -->
+<a href="https://www.drupal.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="drupal" width="40" height="40"/>
+</a>
+
+<!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/>
+</a>
+
+<!-- Firebase -->
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+</a>
+
+<!-- Tailwind CSS -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -67,6 +87,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> </a>
+
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -78,6 +102,10 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
+
 <!--
 ---
 <details>
