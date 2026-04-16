@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Vaibhav Daivashla Ramdas Sapate. 
 </h1>
 
@@ -30,12 +30,12 @@
 - 💬 Ask me about **CSS, Python, Flutter, Java**
 
 - 📫 How to reach me **sapatevaibhav@duck.com**
-
+<!--
 - ⚡ Fun fact **I am probably one of the few people who can debug a Firestore rule, deploy a Next.js project, and argue whether a Petal Bee or Blood Kiwi is a better garden pet — all in the same day.**
+-->
+- 🧑🏻‍💻 Currently I am learning **a lot of things**.
 
-- 🧑🏻‍💻 Currently I am learning **Drupal and Next.js**
-
-<!-- - 🕒 I am working on **ResumeRocket - AI Interview Assistant** -->
+<!-- - 🕒 I am working on **ResumeRocket - AI Interview Assistant** 
 
 ---
 
@@ -54,22 +54,18 @@
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
   
-<!-- Drupal -->
 <a href="https://www.drupal.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="drupal" width="40" height="40"/>
 </a>
 
-<!-- Next.js -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/>
 </a>
 
-<!-- Firebase -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
 </a>
 
-<!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
 </a>
@@ -105,7 +101,7 @@
 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a> </p>
-
+-->
 <!--
 ---
 <details>
@@ -118,6 +114,7 @@
 </details>
 
 
+
 <!--
 <details>
 <summary>
@@ -125,11 +122,11 @@
 ### My GitHub trophies
 </summary>
 -->
----
+<!---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sapatevaibhav&theme=onedark)](https://github.com/sapatevaibhav)
 </details>
-
+-->
 <!--
 ---
 <details>
@@ -138,6 +135,9 @@
 ### Activity graph
 </summary>
 -->
+
+---
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sapatevaibhav&bg_color=000000&color=ffffff&line=ff7b00&point=ffffff&area=true&hide_border=true)](https://github.com/sapatevaibhav)
 <!--
 </details>
@@ -206,5 +206,5 @@
 
 ---
 
-
-### Show some love ❤️ by starring some of the repositories!
+<!--
+### Show some love ❤️ by starring some of the repositories! -->
